@@ -13,7 +13,7 @@ For an example of FAIRDOM-SEEK please visit our [Demo](http://demo.seek4science.
 Other links to info about FAIRDOM or ELIXIR Belgium
 
 # User Guide
-[User Guide](/help/user-guide/index)
+[User Guide](/help/user-guide/index.html)
 
 ## Who should use DataHub and why
 ### [Research group]()
