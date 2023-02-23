@@ -24,7 +24,7 @@ layout: page
 * ISA
 
 ## Assets
-* [SOP](help/user-guide/assets/sop.html)
+* [SOP](/help/user-guide/assets/sop)
 * [Data file]()
 * [Document]()
 * [Publication]()
