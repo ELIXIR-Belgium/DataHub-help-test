@@ -3,7 +3,7 @@ title: SEEK User Guide - ISA overview
 layout: page
 ---
 
-# ISA Overview
+# Visualisation of experiment in ISA
 
 ## Summary
 
@@ -48,7 +48,6 @@ Where items have more than one parent, for example a Data file associated with m
 You can jump to an item on the tree view by double clicking on it.
 
 A full screen view of the tree can be shown by toggling on the "Fullscreen" button, and can be reverted by clicking again or pressing the ESC key.
-
 
 ## Graph view
 
