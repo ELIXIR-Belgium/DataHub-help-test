@@ -1,24 +1,24 @@
 copyright: "© 2009-Present, University of Manchester and HITS gGmbH"
-extra_line: 
+extra_line:
 columns:
   - type: image
     image_width: 64px
     width: 1
-    src: 'images/favicon.png'
+    src: 'images/datahub_logo.png'
     alt: SEEK logo
   - type: links
     width: 2
-    children: 
+    children:
       - url_text: Home
         url: /
   - type: links
     width: 2
-    children: 
+    children:
       - url_text: Contacting Us
         url: /contacting-us.html
   - type: links
     width: 2
-    children: 
+    children:
       - url_text: Contributing
         url: /contributing.html
 #      - url_text: Useful Links
