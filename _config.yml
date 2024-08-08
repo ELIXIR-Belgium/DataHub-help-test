@@ -11,7 +11,7 @@ plugins:
   - jekyll-feed
 
 name: FAIRDOM
-url: https://docs.seek4science.org
+url: https://help.datahub-test.elixir-belgium.org
 author: FAIRDOM
 
 title: "FAIRDOM-SEEK Docs"
@@ -32,10 +32,10 @@ defaults:
       sidebar: userguide
 # adding type and sidebar to this scope is not working
 
-theme_variables: 
+theme_variables:
   #git_host: GitHub
   #back_to_top: true
-  #github_buttons: 
+  #github_buttons:
   #  position: top
   #  edit_me: true
   #  open_issue: true

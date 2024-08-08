@@ -6,18 +6,9 @@ redirect_from: "/contacting_us.html"
 
 # Contacting us
 
-We have a number of ways you can contact us:
-
-
-## Contact FAIRDOM
-
-You can contact us through [FAIRDOM](https://fair-dom.org) using [various channels](https://fair-dom.org/get_involved).
-
-This should be used if your query or feedback is of a more confidential nature. Remember to provide your email address.
-
 ## Email
 
-For general support you can contact us through [support@fair-dom.org](mailto:support@fair-dom.org).
+For general support you can contact us through [datahub@elixir-belgium.org](mailto:datahub@elixir-belgium.org).
 
 For community related questions, you can use [community@fair-dom.org](mailto:community@fair-dom.org)
 
