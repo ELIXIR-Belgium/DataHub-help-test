@@ -4,20 +4,20 @@ layout: user-guide-page
 sidebar: userguide
 ---
 
-FAIRDOM-SEEK includes a [JSON](https://www.json.org/) Application
+DataHub includes a [JSON](https://www.json.org/) Application
 Programming Interface (API) that allows the **searching,
-listing, reading, updating and creating** of many items in SEEK, 
+listing, reading, updating and creating** of many items in SEEK,
 along with their attributes.
 
 The API conforms to the [JSON API](http://jsonapi.org) specification which
 describes a standard way of representing APIs in JSON.
 
 Technical details about the JSON structures and available endpoints
- comes bundled with FAIRDOM-SEEK and can be found served from:
+ comes bundled with DataHub and can be found served from:
 
     http://<host>:<port>/api
 
-For example, on the FAIRDOMHub it is [https://fairdomhub.org/api](https://fairdomhub.org/api), 
+For example, on the FAIRDOMHub it is [https://fairdomhub.org/api](https://fairdomhub.org/api),
 or for a local running instance it would be [http://localhost:3000/api](http://localhost:3000/api)
 
 There are also some examples that are available as Jupyter notebook scripts. They were created for training events, and give

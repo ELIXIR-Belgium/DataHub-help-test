@@ -114,7 +114,7 @@ SEEK requires some cron jobs for periodic background jobs to run. To update thes
 
 ## Steps to upgrade from 1.11.x to 1.12.x
 
-**Note** the requirement to setup Apache Solr, which is no longer bundled together with FAIRDOM-SEEK.
+**Note** the requirement to setup Apache Solr, which is no longer bundled together with DataHub.
 
 ### Set RAILS_ENV
 

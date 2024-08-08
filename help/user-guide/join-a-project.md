@@ -8,7 +8,7 @@ For details about what a Project and Programme is, please see [Creating a Projec
 
 ## Joining a Project
 
-You will be prompted to join a Project when you first register and are not yet a member of one. 
+You will be prompted to join a Project when you first register and are not yet a member of one.
 
 You can also request to join a Project from a Project page itself. To do so, first navigate to the project page. As long as the Project has an administrator, and you are not yet already a member, a "Request Membership" button should be available:
 
@@ -22,7 +22,7 @@ If you enter this page after make a request to join from the Project page, the P
 
 ![Request Join Project](/images/user-guide/request-join-project-selected.png){:.screenshot}
 
-If you have entered the page directly, such as after registration you will need to select the Project you wish to join. 
+If you have entered the page directly, such as after registration you will need to select the Project you wish to join.
 
 You do this by typing the name of the Project into the box, and suggestions will be displayed. The suggestions are from matching what is typed to the Project title or part of the description. You can select up to 3 at one time. If you can't find the project you want, you can browse the full list and filter and then request to join from the Projects page as described above.
 
@@ -46,5 +46,5 @@ You also have the option to provide a comment to describe why you wish to join t
 
 ### Approval step
 
-Your request will be sent to the Project administrators, both through email or a notification in FAIRDOM-SEEK. You will either then be approved and added to the Project, or your request may be rejected. Either way, you will be notified by email of the outcome.
+Your request will be sent to the Project administrators, both through email or a notification in DataHub. You will either then be approved and added to the Project, or your request may be rejected. Either way, you will be notified by email of the outcome.
 

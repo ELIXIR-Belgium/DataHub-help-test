@@ -56,9 +56,9 @@ You can select an organism from the drop down menu.
 
 ## Sharing
 
-FAIRDOM-SEEK has fine grained sharing permissions. You can choose to set an item private (no access) or to share it with selected people, institutions, projects or programmes within SEEK, or to share it publicly. 
+DataHub has fine grained sharing permissions. You can choose to set an item private (no access) or to share it with selected people, institutions, projects or programmes within SEEK, or to share it publicly.
 
-There are different levels of sharing permissions: 
+There are different levels of sharing permissions:
 * "View" allows to see only the title and description of an item;
 * "Download" gives access to the content;
 * "Edit" allows to change details of attributes of the item;
@@ -66,7 +66,7 @@ There are different levels of sharing permissions:
 
 ![sharing permissions](/images/user-guide/sharing_permissions.png){:.screenshot}
 
-An item's sharing permissions can be set 
+An item's sharing permissions can be set
 * by managing the asset individually
 * via the "Batch permission changes" button in your user profile.
 
@@ -99,7 +99,7 @@ An attribution in SEEK allows you, where appropriate, to select the asset from w
 ![add tags 1](/images/user-guide/add_attribution_1.png){:.screenshot}
 
 ## Creators
-Creators are others who have been involved in generating the asset, through for example planning, experimentation, or analysis. 
+Creators are others who have been involved in generating the asset, through for example planning, experimentation, or analysis.
 They may not necessarily be the same person that registered the item - the Contributor.
 
 

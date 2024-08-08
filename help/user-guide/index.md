@@ -1,14 +1,14 @@
 ---
-title: FAIRDOM-SEEK User Guide
+title: DataHub User Guide
 layout: user-guide-page
 sidebar: userguide
 ---
 
 
 <div class="alert alert-info">
-Note that FAIRDOM-SEEK instances are highly customisable. Functionality such as e.g. the ISA structure, ISA-JSON compliant 
-experiments and the different asset types need to be enabled by an instance admin. 
-Therefore, some functionality described in this general user guide might not be available on your local instance. 
+Note that DataHub instances are highly customisable. Functionality such as e.g. the ISA structure, ISA-JSON compliant
+experiments and the different asset types need to be enabled by an instance admin.
+Therefore, some functionality described in this general user guide might not be available on your local instance.
 Please contact your local instance admin for more information.
 </div>
 
@@ -67,9 +67,9 @@ Capabilities
   - [Making public](investigation-snapshots.html#making-public)
   - [Snapshotting](investigation-snapshots.html#snapshotting)
   - [Creating a Research Object](investigation-snapshots.html#creating-a-research-object)
-  - [Assigning a DOI](investigation-snapshots.html#assigning-a-doi)  
-      
-## Assets      
+  - [Assigning a DOI](investigation-snapshots.html#assigning-a-doi)
+
+## Assets
 - [Adding assets (data, models, SOPs, publications) to SEEK](adding-assets.html)
 - [Data Files](general-attributes.html#data-files)
   - [Data file wizard](data-file-upload-wizard.html)
@@ -85,7 +85,7 @@ Capabilities
   - [Comparing two versions of a Model](model-comparison.html)
 
 ## Samples
-- [Samples](samples.html) 
+- [Samples](samples.html)
   - [Create a Sample Type](create-sample-type.html)
   - [Create a Sample](create-sample.html)
   - [Legacy Biosamples](legacy-biosamples.html)

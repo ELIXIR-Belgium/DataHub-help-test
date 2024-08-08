@@ -3,8 +3,8 @@ title: Definitions
 layout: page
 ---
 
-# FAIRDOM-SEEK definitions
-Definition of terms used in FAIRDOM-SEEK.
+# DataHub definitions
+Definition of terms used in DataHub.
 
 ## Profile
 A profile corresponds to information in SEEK about a person that can be a registered user (with an account) or a non-registered user (without an account).
@@ -72,7 +72,7 @@ Alias for Project.
 ## Experiments
 Scientific procedures undertaken to make a discovery, test a hypothesis or demonstrate a fact.
 ### Assay
-<!--From user guide:-->An assay is in general an experiment that converts either a material or data sample, into a new material or data sample, via a protocol. 
+<!--From user guide:-->An assay is in general an experiment that converts either a material or data sample, into a new material or data sample, via a protocol.
 
 <!--From info icon:-->An Assay is in general the application of a process (SOP) that converts an input material or data (incoming samples) into a new material or data (outgoing samples). An Assay must belong to one Study.
 ### Assay design
@@ -106,7 +106,7 @@ The ISA (Investigation, Study, Assay) is a general purpose framework for describ
 * Graph: It displays as a graph, showing the overall ISA structure. It shows a graphical view of highlighting the item within the network.
   * all nodes: Toogle between expanding all nodes in the graph, or showing just the nearest neighbours.
   * Reset: It resets the graph to its original state, reverting any changes to zoom or moved nodes.
-* Split: The Split view provides a combination of the Tree and Graph view, with the tree shown on the right. 
+* Split: The Split view provides a combination of the Tree and Graph view, with the tree shown on the right.
 * Tree: It displays with a folder like tree view. The tree view is the default view, and shows the ISA structure as folders, similar to a file browser.
 
 
@@ -274,7 +274,7 @@ To visualise samples from one Sample Type in a searchable table.
 
 ## Actions
 * Administer Project members
-  * Add members: to add registered users to the project, using one or more institutions. 
+  * Add members: to add registered users to the project, using one or more institutions.
   * Mark/Unmark user as inactive: to manage items of registered users that are not using the platform anymore.
   * Pending changes: list of changes that have not been confirm yet. Pending changes will not be applied if not confirmed.
   * Project members: list of all members of the project, grouped by institution. A project member can be listed multiple times if he/she has been added to the project using multiple institutions.
@@ -336,12 +336,12 @@ Tab showing items related to the selected one.
 ## Search
 To search for a specific query. The search will attempt to find partial matches for the search term in all item categories. The search can be restricted to one specific item category (e.g. Documents), as for browsing.
 ### External
-The search can be extended to incude results from external online resources Linked? Integrated? with FAIRDOM-SEEK.
+The search can be extended to incude results from external online resources Linked? Integrated? with DataHub.
 ### Advanced search with filtering
-To access the query and the faceted navigation option for one specific item category (e.g. Documents). 
+To access the query and the faceted navigation option for one specific item category (e.g. Documents).
 
 ## Storage Usage
-Storage metrics, for Programmes and Projects, available to FAIRDOM-SEEK administrator. It provides the total size of all Programme or Project assets.
+Storage metrics, for Programmes and Projects, available to DataHub administrator. It provides the total size of all Programme or Project assets.
 ## Change picture or avatar
 Custom graphic for a secific item.
 ## (number)
@@ -354,7 +354,7 @@ Number of items of a category (e.g. Documents) visible to you.
 ### Bio.tools
 To fetch bio.tools identifiers.
 ### Copasi
-To download a public SBML format model from FAIRDOM-SEEK to a locally installed Copasi application and start the simulation in Copasi.
+To download a public SBML format model from DataHub to a locally installed Copasi application and start the simulation in Copasi.
 ### JWS online
 To visualise the model in JWS online.
 ### DOI minting
@@ -364,9 +364,9 @@ To apply LifeMonitor algorithm to workflows.
 ### NeLS
 To enable linking of datasets stored in the Norwegian e-infrastructure for Life Sciences (NeLS), as well as upload and access of datasets to/from NeLS through SEEK
 ### OpenBIS
-To fetch and register OpnBIS elements in FAIRDOM-SEEK.
+To fetch and register OpnBIS elements in DataHub.
 ### Publish in Zenodo
-To publish a snapshot to Zenodo from FAIRDOM-SEEK.
+To publish a snapshot to Zenodo from DataHub.
 <!--### Project folders
 Free folders within a project to group registered items.-->
 ### Single page

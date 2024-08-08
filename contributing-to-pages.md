@@ -32,9 +32,9 @@ You can make a change by forking and issuing a pull request. If contributing thr
 
 # Working with DataHub documentation
 
-## FAIRDOM-SEEK documentation
+## DataHub documentation
 
-FAIRDOM-SEEK documentation is in branches of the GitHub repository seek4science/seek
+DataHub documentation is in branches of the GitHub repository seek4science/seek
 * gh-pages:
 * gh-pages-1.13:
 * gh-pages-master:
@@ -42,7 +42,7 @@ FAIRDOM-SEEK documentation is in branches of the GitHub repository seek4science/
 
 ## DataHub documentation
 
-FAIRDOM-SEEK documentation (gh-pages branches) has been cloned in GitHub
+DataHub documentation (gh-pages branches) has been cloned in GitHub
 * ELIXIR-Belgium/DataHub-help: to deploy documentation of the production instance (https://datahub.elixir-belgium.org)
 * ELIXIR-Belgium/DataHub-help-test: to deploy documentation (https://help.datahub-test.elixir-belgium.org) of the test instance (https://datahub-test.elixir-belgium.org). Forked from ELIXIR-Belgium/DataHub-help.
 * ELIXIR-Belgium/DataHub-help-usecase: to deploy documentation (https://help.datahub-usecase.elixir-belgium.org) of the usecase instance (https://datahub-usecase.elixir-belgium.org). Forked from ELIXIR-Belgium/DataHub-help.
